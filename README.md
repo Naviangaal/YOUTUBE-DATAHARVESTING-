@@ -6,3 +6,17 @@ The problem statement is to create a Streamlit application that allows users to 
  2- Ability to collect data for up to 10 different YouTube channels and store them in the data lake by clicking a button.
  3 - Option to store the data in a MYSQL or PostgreSQL.
  4 - Ability to search and retrieve data from the SQL database using different search options, including joining tables to get channel details.
+
+
+##Project Title##
+YouTube Data Harvesting and Warehousing using SQL and Streamlit
+
+
+##Skills take away From This Project##
+
+Python scripting, Data Collection, Streamlit, API integration, Data Management using SQL
+
+
+##Domain##
+Social Media
+
